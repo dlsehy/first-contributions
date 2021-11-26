@@ -122,6 +122,7 @@
 - [Daniel Dills](https://github.com/danieldills)
 - [David Brent]
 - [Prem Sundar]
+- [dlehy] (https://github.com/dlsehy)
 - [Megan Riley] (https://github.com/meganriley)
 - [Ilmari99](http://github.com/Ilmari99)
 - [Muchu69390](https://github.com/Muchu69390)
